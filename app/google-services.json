@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588551932618",
+    "project_id": "happycook-ec36f",
+    "storage_bucket": "happycook-ec36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588551932618:android:13beb9220aa89561198233",
+        "android_client_info": {
+          "package_name": "com.example.happycook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588551932618-shccus369m5n4b0dgdmorfq2ag7u4hej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKqh24FjlhiKFh1YEY2QTszZLmevfd0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588551932618-shccus369m5n4b0dgdmorfq2ag7u4hej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
